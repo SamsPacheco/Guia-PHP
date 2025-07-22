@@ -16,7 +16,7 @@
 </li>
 
 <li>
-  Rodrigo 
+  Rodrigo Alexis Mejía Rivas
 </li>
 
   <li>
